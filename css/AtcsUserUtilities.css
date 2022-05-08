@@ -1,0 +1,7 @@
+
+
+.atcsUserGroup { padding: 1em; }
+.atcsUserGroup .full_name { font-size: 1.2em; font-weight: bold; }
+.atcsUserGroup dd { margin-bottom: 0; }
+.atcsUserGroup img.listImage { max-width:80px; max-height:80px;  }
+
